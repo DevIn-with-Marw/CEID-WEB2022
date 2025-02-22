@@ -1,4 +1,4 @@
-# Web Project 2022 Personal Repository
+# Web Project 2022 Repository
 
 #### NPM dependecy packages installed by Teo
 * express
